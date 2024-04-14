@@ -1,5 +1,5 @@
 {
-  "name": "ATM-algorithm-by-Sarmad",
+  "name": "atm-algorithm-by-sarmad",
   "version": "1.0.0",
   "description": "ATM algorithm using typescript with inquirer",
   "main": "index.js",
