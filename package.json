@@ -1,0 +1,32 @@
+{
+  "name": "ATM-algorithm-by-Sarmad",
+  "version": "1.0.0",
+  "description": "ATM algorithm using typescript with inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedMuhammadSarmad/ATM-algorithm.git"
+  },
+  "keywords": [
+    "node",
+    "inquirer",
+    "typescript"
+  ],
+  "author": "Syed Muhammad Sarmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedMuhammadSarmad/ATM-algorithm/issues"
+  },
+  "homepage": "https://github.com/SyedMuhammadSarmad/ATM-algorithm#readme",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
